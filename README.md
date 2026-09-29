@@ -6,7 +6,7 @@ O arquivo apresenta uma planilha de apoio ao planejamento de investimentos, util
 
 ## 📁 Estrutura do projeto
 
-O arquivo `Projeto1_DIO_Santander-Excel_com_IA_e_Claude.xlsx` possui duas planilhas:
+O arquivo `Projeto1_FIIs_DIO_Santander-Excel_com_IA_e_Claude.xlsx` possui duas planilhas:
 
 ### `APP`
 
